@@ -1,0 +1,726 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "category": "Category III",
+      "question": "What is the regulation duration of a U15, U17, or Veterans bout?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Two 3-minute periods with a 30-second break"
+        },
+        {
+          "key": "B",
+          "text": "Two 2-minute periods with a 30-second break"
+        },
+        {
+          "key": "C",
+          "text": "One 4-minute period"
+        },
+        {
+          "key": "D",
+          "text": "Three 2-minute periods"
+        }
+      ],
+      "answer": "B. Two 2-minute periods with a 30-second break. Article 22, rulebook p. 19 (PDF p. 20).[2]",
+      "correct": "B"
+    },
+    {
+      "id": 2,
+      "category": "Category III",
+      "question": "What is the regulation duration of a U20, U23, or Senior bout?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Two 3-minute periods with a 30-second break"
+        },
+        {
+          "key": "B",
+          "text": "Two 2-minute periods with a 30-second break"
+        },
+        {
+          "key": "C",
+          "text": "One 6-minute period without a break"
+        },
+        {
+          "key": "D",
+          "text": "Three 2-minute periods"
+        }
+      ],
+      "answer": "A. Two 3-minute periods with a 30-second break. Article 22, p. 19 (PDF p. 20).[2]",
+      "correct": "A"
+    },
+    {
+      "id": 3,
+      "category": "Category III",
+      "question": "What is the standard composition of the refereeing body for a bout?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Referee and Judge"
+        },
+        {
+          "key": "B",
+          "text": "Referee, Judge, and Mat Chairman"
+        },
+        {
+          "key": "C",
+          "text": "Two Referees and one Delegate"
+        },
+        {
+          "key": "D",
+          "text": "Referee, Coach, and Mat Chairman"
+        }
+      ],
+      "answer": "B. Mat Chairman, Referee, and Judge. Article 15, p. 15 (PDF p. 16).[2]",
+      "correct": "B"
+    },
+    {
+      "id": 4,
+      "category": "Category III",
+      "question": "What point difference is required for Technical Superiority?",
+      "options": [
+        {
+          "key": "A",
+          "text": "8 points in all styles"
+        },
+        {
+          "key": "B",
+          "text": "10 points in all styles"
+        },
+        {
+          "key": "C",
+          "text": "8 points in Greco-Roman and 10 points in Freestyle/Women’s Wrestling"
+        },
+        {
+          "key": "D",
+          "text": "10 points in Greco-Roman and 8 points in Freestyle/Women’s Wrestling"
+        }
+      ],
+      "answer": "C. Eight points in Greco-Roman; ten points in Freestyle and Women’s Wrestling. Articles 18, 27 and 43, pp. 17, 20 and 31.[2]",
+      "correct": "C"
+    },
+    {
+      "id": 5,
+      "category": "Category III",
+      "question": "A position is considered a Danger Position when the wrestler’s back or shoulder line forms which angle with the mat?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Exactly 90 degrees"
+        },
+        {
+          "key": "B",
+          "text": "An angle of less than 90 degrees"
+        },
+        {
+          "key": "C",
+          "text": "An angle of more than 90 degrees"
+        },
+        {
+          "key": "D",
+          "text": "Any angle, provided there is control"
+        }
+      ],
+      "answer": "B. Less than 90 degrees. Exactly 90 degrees is a neutral position, not a Danger Position. Article 35, pp. 26–27.[2]",
+      "correct": "B"
+    },
+    {
+      "id": 6,
+      "category": "Category III",
+      "question": "In standing wrestling, Blue places one foot entirely in the protection area without any valid action occurring. What is the basic decision?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1 point Blue"
+        },
+        {
+          "key": "B",
+          "text": "1 point Red"
+        },
+        {
+          "key": "C",
+          "text": "2 points Red"
+        },
+        {
+          "key": "D",
+          "text": "No points"
+        }
+      ],
+      "answer": "B. 1 point Red for Blue’s step out. Article 38, p. 27.[2]",
+      "correct": "B"
+    },
+    {
+      "id": 7,
+      "category": "Category III",
+      "question": "Which of the following is a regulation method of victory?",
+      "options": [
+        {
+          "key": "A",
+          "text": "The opponent receives three cautions"
+        },
+        {
+          "key": "B",
+          "text": "The opponent receives two passivities"
+        },
+        {
+          "key": "C",
+          "text": "One consultation"
+        },
+        {
+          "key": "D",
+          "text": "Two consecutive step outs"
+        }
+      ],
+      "answer": "A. Three cautions result in defeat. Article 29, p. 21.[2]",
+      "correct": "A"
+    },
+    {
+      "id": 8,
+      "category": "Category III",
+      "question": "If the Refereeing Delegate confirms the original decision following a challenge, what normally happens?",
+      "options": [
+        {
+          "key": "A",
+          "text": "The wrestler retains the challenge"
+        },
+        {
+          "key": "B",
+          "text": "The opponent receives 1 point and the wrestler loses the challenge"
+        },
+        {
+          "key": "C",
+          "text": "The opponent receives 2 points"
+        },
+        {
+          "key": "D",
+          "text": "The bout is restarted from the beginning"
+        }
+      ],
+      "answer": "B. The wrestler loses the challenge and the opponent receives 1 point. Article 31, p. 24.[2]",
+      "correct": "B"
+    },
+    {
+      "id": 9,
+      "category": "Category III",
+      "question": "In Greco-Roman, what does the active wrestler receive for the first passivity of the bout?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1 point and the choice of standing or parterre"
+        },
+        {
+          "key": "B",
+          "text": "2 points and mandatory parterre"
+        },
+        {
+          "key": "C",
+          "text": "Choice of position only"
+        },
+        {
+          "key": "D",
+          "text": "A 30-second Activity Time"
+        }
+      ],
+      "answer": "A. 1 point and the choice of standing or parterre. Article 46, p. 34.[2]",
+      "correct": "A"
+    },
+    {
+      "id": 10,
+      "category": "Category III",
+      "question": "In Senior Freestyle, the score remains 0–0 after 2:00 minutes of the first period. What must happen?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Wait until the break"
+        },
+        {
+          "key": "B",
+          "text": "Designate one wrestler as inactive and begin Activity Time"
+        },
+        {
+          "key": "C",
+          "text": "Both wrestlers receive a caution"
+        },
+        {
+          "key": "D",
+          "text": "Award 1 point to the last wrestler who attacked"
+        }
+      ],
+      "answer": "B. An inactive wrestler must be designated and Activity Time must begin. Article 46, p. 33.[2]",
+      "correct": "B"
+    },
+    {
+      "id": 11,
+      "category": "Category III",
+      "question": "For a fall at the edge to be valid:",
+      "options": [
+        {
+          "key": "A",
+          "text": "It is sufficient for one shoulder to be in the orange zone"
+        },
+        {
+          "key": "B",
+          "text": "Both shoulders must be inside the orange zone, and the entire head must not touch the protection area"
+        },
+        {
+          "key": "C",
+          "text": "It may occur entirely in the protection area"
+        },
+        {
+          "key": "D",
+          "text": "Only the Referee needs to confirm it"
+        }
+      ],
+      "answer": "B. Both shoulders must be inside the orange zone, and the entire head must not touch the protection area. Article 42, p. 30.[2]",
+      "correct": "B"
+    },
+    {
+      "id": 12,
+      "category": "Category III",
+      "question": "In Women’s Wrestling, Double Nelsons:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Are permitted from the side"
+        },
+        {
+          "key": "B",
+          "text": "Are permitted only in standing wrestling"
+        },
+        {
+          "key": "C",
+          "text": "Are prohibited in standing and parterre"
+        },
+        {
+          "key": "D",
+          "text": "Are permitted for Seniors"
+        }
+      ],
+      "answer": "C. All Double Nelsons are prohibited in Women’s Wrestling. Article 50, p. 37.[2]",
+      "correct": "C"
+    },
+    {
+      "id": 13,
+      "category": "Category II",
+      "question": "The Referee and Judge show 2 Red. The Mat Chairman considers the action to be 4 Red, but there is no serious fault and no consultation. What is the official result?",
+      "options": [
+        {
+          "key": "A",
+          "text": "4 Red"
+        },
+        {
+          "key": "B",
+          "text": "2 Red"
+        },
+        {
+          "key": "C",
+          "text": "White paddle"
+        },
+        {
+          "key": "D",
+          "text": "The action is repeated"
+        }
+      ],
+      "answer": "B. 2 Red. When the Referee and Judge agree, the Mat Chairman may not unilaterally change the decision; the Mat Chairman may call a consultation in the event of a serious fault. Articles 20, 39 and 40, pp. 18 and 29.[2]",
+      "correct": "B"
+    },
+    {
+      "id": 14,
+      "category": "Category II",
+      "question": "The Referee shows 2 Blue, the Judge shows 0, and the Mat Chairman votes 2 Blue. What is the result?",
+      "options": [
+        {
+          "key": "A",
+          "text": "0"
+        },
+        {
+          "key": "B",
+          "text": "1 Blue"
+        },
+        {
+          "key": "C",
+          "text": "2 Blue"
+        },
+        {
+          "key": "D",
+          "text": "Mandatory consultation"
+        }
+      ],
+      "answer": "C. 2 Blue by majority decision. Article 40, p. 29.[2]",
+      "correct": "C"
+    },
+    {
+      "id": 15,
+      "category": "Category II",
+      "question": "In Freestyle parterre, the defensive wrestler uses an illegal action that prevents the attacking wrestler from completing the hold. State the sanction, score, and restart.",
+      "options": [],
+      "answer": "Caution to the defensive wrestler, 1 point to the attacking wrestler, and restart in the position in which the infringement occurred; if the action is completed, its technical value is also awarded. Articles 28 and 50, pp. 21 and 37–38.[2]",
+      "correct": null
+    },
+    {
+      "id": 16,
+      "category": "Category II",
+      "question": "In Greco-Roman, a defensive wrestler commits a second leg foul in the bout. State the sanction and score, and whether the bout must end automatically.",
+      "options": [],
+      "answer": "A regular caution to the defensive wrestler and 2 points to the opponent. The bout does not end automatically because this is the second leg foul; the general rule of defeat upon the third caution applies. Article 51, p. 38; circular of 12 December 2025.",
+      "correct": null
+    },
+    {
+      "id": 17,
+      "category": "Category II",
+      "question": "A defensive wrestler clearly flees a hold in parterre. State the sanction, score, and restart.",
+      "options": [],
+      "answer": "Caution (0), 1 point to the opponent, and restart in parterre. Article 48, pp. 35–36.[2]",
+      "correct": null
+    },
+    {
+      "id": 18,
+      "category": "Category II",
+      "question": "A defensive wrestler flees the mat while in a Danger Position. State the sanction, score, and restart.",
+      "options": [],
+      "answer": "Caution to the offending wrestler, 2 points to the opponent, and restart in parterre. Article 49, p. 36.[2]",
+      "correct": null
+    },
+    {
+      "id": 19,
+      "category": "Category II",
+      "question": "During an attack from standing, the defensive wrestler flees the mat and the attack ends in a takedown in the protection area. What total score and sanction apply?",
+      "options": [],
+      "answer": "2 points for the takedown + caution and 1 point for fleeing the mat; restart in parterre. Article 49, p. 36.[2]",
+      "correct": null
+    },
+    {
+      "id": 20,
+      "category": "Category II",
+      "question": "During the bout, the refereeing body misses a clear fall or an evident case of brutality, and the coach does not request a challenge. May the Refereeing Delegate intervene? Through what procedure?",
+      "options": [],
+      "answer": "Yes. Article 26(i) allows the Refereeing Delegate to intervene in the event of a serious mistake—including an unawarded clear fall or brutality—and request a correction through consultation or video review, even without a coach’s challenge. Article 26, p. 20.",
+      "correct": null
+    },
+    {
+      "id": 21,
+      "category": "Category II",
+      "question": "An 8-point difference is reached in Greco-Roman while an action is still in progress. When must the bout be ended by Technical Superiority?",
+      "options": [],
+      "answer": "When the action has ended and the athletes have returned to the neutral position. Articles 18, 27 and 43.[2]",
+      "correct": null
+    },
+    {
+      "id": 22,
+      "category": "Category II",
+      "question": "Red attempts a risky hold, fails, and ends up underneath in parterre without any action or control initiated by Blue. What score and restart apply?",
+      "options": [],
+      "answer": "No points; stop the bout and restart in standing. Article 34, pp. 25–26.[2]",
+      "correct": null
+    },
+    {
+      "id": 23,
+      "category": "Category II",
+      "question": "Once the parterre position has been established, the defensive wrestler briefly loses contact between one knee and the mat. Must the next action automatically be considered standing? Explain.",
+      "options": [],
+      "answer": "No. A brief loss of knee contact after parterre has been established does not automatically convert the action into standing wrestling. Article 34, p. 26.[2]",
+      "correct": null
+    },
+    {
+      "id": 24,
+      "category": "Category II",
+      "question": "In U15 Freestyle, the score remains 0–0 at the one-minute mark of the first period. Is a verbal warning required before Activity Time?",
+      "options": [],
+      "answer": "No. For U15, U17, and Veterans, no prior verbal warning is used; if the score remains 0–0 at the one-minute mark, the procedure proceeds directly to Activity Time. Article 46, pp. 33–34.[2]",
+      "correct": null
+    },
+    {
+      "id": 25,
+      "category": "Category I",
+      "question": "A Greco-Roman bout ends 1–1, and both points were awarded for the opponent’s passivity. There are no cautions. Who wins?",
+      "options": [
+        {
+          "key": "A",
+          "text": "The wrestler who scored last"
+        },
+        {
+          "key": "B",
+          "text": "The wrestler who scored first"
+        },
+        {
+          "key": "C",
+          "text": "Overtime is held"
+        },
+        {
+          "key": "D",
+          "text": "The Mat Chairman decides without any additional criterion"
+        }
+      ],
+      "answer": "B. In the specific case of a 1–1 Greco-Roman score in which both points resulted from passivity, the wrestler who received the first point wins. Article 29, pp. 21–22.[2]",
+      "correct": "B"
+    },
+    {
+      "id": 26,
+      "category": "Category I",
+      "question": "In Greco-Roman, Red first receives 1 point because Blue lost a challenge. Blue then scores 1 technical point for a step out. The bout ends 1–1. Who wins, and why?",
+      "options": [],
+      "answer": "Blue. The technical point for the step out has greater value than the non-technical point resulting from a lost challenge. Article 29, pp. 21–22.[2]",
+      "correct": null
+    },
+    {
+      "id": 27,
+      "category": "Category I",
+      "question": "What approval is required to award the third caution that results in defeat?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Simple majority"
+        },
+        {
+          "key": "B",
+          "text": "Referee and Judge only"
+        },
+        {
+          "key": "C",
+          "text": "Unanimous approval of the refereeing body"
+        },
+        {
+          "key": "D",
+          "text": "Refereeing Delegate only"
+        }
+      ],
+      "answer": "C. The third caution must be unanimous. Article 29, p. 22.[2]",
+      "correct": "C"
+    },
+    {
+      "id": 28,
+      "category": "Category I",
+      "question": "May a challenge be requested against a passivity penalty? What about against a fall?",
+      "options": [],
+      "answer": "A challenge is not accepted for passivity penalties or, as a general rule, for a fall. It may, however, be accepted in relation to an illegal action/counterattack or an action occurring in the final seconds before the fall. Article 31, p. 24.[2]",
+      "correct": null
+    },
+    {
+      "id": 29,
+      "category": "Category I",
+      "question": "What is the general time limit for requesting a challenge after the points are displayed or the wrestlers return to the neutral position?",
+      "options": [
+        {
+          "key": "A",
+          "text": "5 seconds"
+        },
+        {
+          "key": "B",
+          "text": "10 seconds"
+        },
+        {
+          "key": "C",
+          "text": "20 seconds"
+        },
+        {
+          "key": "D",
+          "text": "Before the next period"
+        }
+      ],
+      "answer": "B. Ten seconds. Article 31, p. 24.[2]",
+      "correct": "B"
+    },
+    {
+      "id": 30,
+      "category": "Category I",
+      "question": "Who issues the final decision after reviewing the video of a challenge?",
+      "options": [
+        {
+          "key": "A",
+          "text": "The Mat Chairman alone"
+        },
+        {
+          "key": "B",
+          "text": "The Referee and Judge by majority"
+        },
+        {
+          "key": "C",
+          "text": "The Refereeing Delegate or substitute, after consulting the Mat Chairman"
+        },
+        {
+          "key": "D",
+          "text": "The Competition Director"
+        }
+      ],
+      "answer": "C. The Refereeing Delegate or substitute issues the final decision after reviewing the video and discussing it with the Mat Chairman. Articles 16, 20 and 31.[2]",
+      "correct": "C"
+    },
+    {
+      "id": 31,
+      "category": "Category I",
+      "question": "During the bout, a serious mistake not seen by the refereeing body is detected: incorrect points on the scoreboard, an incorrect restart, or the wrong winner about to be announced. What intervention do the Rules permit before the winner is declared?",
+      "options": [],
+      "answer": "The Refereeing Delegate may intervene and request a correction through consultation or video review while the bout/procedure still allows the error to be corrected before the winner is declared. Article 26(i), p. 20.[2]",
+      "correct": null
+    },
+    {
+      "id": 32,
+      "category": "Category I",
+      "question": "The cumulative treatment time for bleeding reaches four minutes. Treatment ends exactly when the time expires, and there is no longer any visible bleeding. May the wrestler continue? What happens if bleeding recurs?",
+      "options": [],
+      "answer": "If treatment ends and there is no visible bleeding exactly when the time expires, the wrestler may continue; any subsequent bleeding results in defeat. Article 26(f), p. 20.[2]",
+      "correct": null
+    },
+    {
+      "id": 33,
+      "category": "Category I",
+      "question": "After the winner has been declared on the mat, a coach files a protest seeking to change the result. Is it admissible under Article 53?",
+      "options": [],
+      "answer": "No. Once victory has been declared on the mat, no protest seeking to change the result is admissible. Article 53, p. 39.[2]",
+      "correct": null
+    },
+    {
+      "id": 34,
+      "category": "Category I",
+      "question": "May the Mat Chairman be the first to express an opinion on a scoring action? Explain the functional exception in the event of disagreement or a serious mistake.",
+      "options": [],
+      "answer": "The Mat Chairman may not be the first to give an opinion on scoring. In the event of disagreement, the Mat Chairman decides between the Referee and Judge; in the event of a serious scoring mistake, the Mat Chairman may interrupt the bout and request a consultation. Article 20, p. 18.[2]",
+      "correct": null
+    },
+    {
+      "id": 35,
+      "category": "Category I",
+      "question": "At the end of the bout, there is a discrepancy between the Judge’s and Mat Chairman’s score sheets. Which score sheet governs the designation of the winner?",
+      "options": [],
+      "answer": "The Mat Chairman’s score sheet. Article 39, p. 29.[2]",
+      "correct": null
+    },
+    {
+      "id": 36,
+      "category": "Category I",
+      "question": "Determine the classification points: a) Technical Superiority with the loser scoring no technical points. b) Technical Superiority with the loser having scored technical points. c) Victory by Points with the loser scoring no points. d) Victory by Points with the loser having scored technical points.",
+      "options": [],
+      "answer": "a) VSU 4:0; b) VSU1 4:1; c) VPO 3:0; d) VPO1 3:1. Article 41, p. 30.[2]",
+      "correct": null
+    },
+    {
+      "id": 37,
+      "category": "Category IS",
+      "question": "The attacking wrestler steps into the protection area first while executing a hold from standing. Decide each case separately: a) The wrestler completes the hold in one continuous action. b) The wrestler does not complete the hold. c) The wrestler lifts and controls the opponent but cannot complete the hold in one continuous action.",
+      "options": [],
+      "answer": "a) Award the full value of the hold: 1, 2, 4, or 5 points; b) 1 point to the opponent; c) stop the bout without awarding a point. Article 38, p. 27.[2]",
+      "correct": null
+    },
+    {
+      "id": 38,
+      "category": "Category IS",
+      "question": "In parterre, an action begins validly in the passivity zone and ends in the protection area. Are the points valid? In what position is the bout restarted?",
+      "options": [],
+      "answer": "The points are valid; the bout is then stopped and restarted in standing at the center. Article 45, pp. 32–33.[2]",
+      "correct": null
+    },
+    {
+      "id": 39,
+      "category": "Category IS",
+      "question": "At the edge, both of the defensive wrestler’s shoulders are inside the orange zone, but the entire head touches the protection area. May a fall be declared? State the precise criterion.",
+      "options": [],
+      "answer": "No. A fall at the edge requires both shoulders to be inside the orange zone and the entire head not to touch the protection area. Article 42, p. 30.",
+      "correct": null
+    },
+    {
+      "id": 40,
+      "category": "Category IS",
+      "question": "In standing wrestling, the defensive wrestler deliberately drops to the knees and enters the protection area. How is the step out scored, and when may it additionally become fleeing the mat?",
+      "options": [],
+      "answer": "A defensive wrestler who is grounded/on the knees and enters the protection area concedes 1 point for a step out. If the wrestler intentionally drops into the zone and deliberately enters the protection area to escape, this is considered fleeing the mat, with the corresponding caution, points, and restart. Articles 38 and 49, pp. 27 and 36–37.",
+      "correct": null
+    },
+    {
+      "id": 41,
+      "category": "Category IS",
+      "question": "Under the current wording of Article 30, may a Category IS referee simultaneously serve as a national coach?",
+      "options": [],
+      "answer": "No. The current wording states that a Category IS referee may not be a national coach. Article 30, p. 23.[2]",
+      "correct": null
+    },
+    {
+      "id": 42,
+      "category": "Category IS",
+      "question": "A wrestler commits brutality after the bout has ended. State the consequences for competition classification under the current text.",
+      "options": [],
+      "answer": "The wrestler must be disqualified from the competition, placed last without a ranking, and marked DSQ. Article 14, p. 14; formal update effective 1 January 2026.",
+      "correct": null
+    },
+    {
+      "id": 43,
+      "category": "Category IS",
+      "question": "A Greco-Roman bout ends 1–1: Red scored first due to a caution against Blue; Blue then scored due to a caution against Red. Who wins under the current example?",
+      "options": [],
+      "answer": "Red. The current example states that the first point resulted from Blue’s caution and the second from Red’s caution; Red wins. Article 29, p. 22.[2]",
+      "correct": null
+    },
+    {
+      "id": 44,
+      "category": "Category IS",
+      "question": "Describe the first three passivity calls in a Greco-Roman bout, regardless of which wrestler is passive each time.",
+      "options": [],
+      "answer": "First: 1 point and the choice of standing or parterre. Second: 1 point and the choice of standing or parterre. Third and subsequent calls: no point, but the choice of standing or parterre. Article 46, p. 34.[2]",
+      "correct": null
+    },
+    {
+      "id": 45,
+      "category": "Category IS",
+      "question": "Distinguish Passivity from Negative Wrestling. What is the immediate sanction for confirmed Negative Wrestling in Freestyle and in Greco-Roman?",
+      "options": [],
+      "answer": "Passivity is a lack of activity and follows different procedures in each style. Negative Wrestling is blocking/avoidance conduct contrary to open wrestling and must not be penalized as passivity. After confirmation by the Mat Chairman: caution + 1 point in Freestyle; caution + 2 points in Greco-Roman. Article 46, pp. 34–35.[2]",
+      "correct": null
+    },
+    {
+      "id": 46,
+      "category": "Category IS",
+      "question": "The coach attempts to challenge a third caution. Must the challenge be rejected automatically? Explain the relationship between the general challenge rule and the exception for passivity.",
+      "options": [],
+      "answer": "It must not be rejected automatically merely because it concerns a caution: Article 29 states that challenges may be accepted for all types of cautions. However, Article 31 excludes penalties resulting from passive wrestling. The exact basis of the caution must be identified before the challenge is accepted or rejected. Articles 29 and 31.[2]",
+      "correct": null
+    },
+    {
+      "id": 47,
+      "category": "Category IS",
+      "question": "The Referee and Judge agree on a score. The Mat Chairman observes a flagrant violation of the Rules. What procedure must the Mat Chairman use instead of simply replacing the decision?",
+      "options": [],
+      "answer": "The Mat Chairman must call a consultation and may not unilaterally replace a decision agreed upon by the Referee and Judge. Articles 20, 39 and 40.[2]",
+      "correct": null
+    },
+    {
+      "id": 48,
+      "category": "Category IS",
+      "question": "A Refereeing Delegate reviews a video after victory has already been declared and determines that the refereeing body made a technical error. Clearly distinguish: a) Whether the result may be changed. b) Whether the refereeing body may be evaluated or sanctioned. c) The applicable authority and procedure.",
+      "options": [],
+      "answer": "a) The result may not be changed after victory has been declared. b) The error may still be reviewed for technical accountability and possible sanctions. c) The UWW President or the person responsible for refereeing may examine the video and, with the agreement of the UWW Bureau, impose sanctions in accordance with the Refereeing Regulations; Article 21 also provides for a warning, suspension from one or more sessions, or withdrawal from the competition by the competent authorities. Articles 21 and 53.[2] ---",
+      "correct": null
+    }
+  ],
+  "sources": [
+    {
+      "n": 1,
+      "title": "UWW Olympic Wrestling Rules",
+      "url": "https://uww.org/governance/regulations-olympic-wrestling"
+    },
+    {
+      "n": 2,
+      "title": "International Wrestling Rules — January 2026",
+      "url": "https://cdn.uww.org/2026-01/wrestling_rules.pdf"
+    },
+    {
+      "n": 3,
+      "title": "International Wrestling Rules updates — 12 Dec 2025",
+      "url": "https://cdn.uww.org/2025-12/23_international_wrestling_rules.pdf"
+    },
+    {
+      "n": 4,
+      "title": "GR 1–1 Tie-Breaking Test Phase — 27 Mar 2025",
+      "url": "https://cdn.uww.org/2025-03/07_test_gr_passivity.pdf"
+    },
+    {
+      "n": 5,
+      "title": "GR 1–1 New Tests — 18 Jun 2025",
+      "url": "https://cdn.uww.org/2025-06/14_gr_passivity_newtests.pdf"
+    },
+    {
+      "n": 6,
+      "title": "Refereeing in 2026 — 19 Dec 2025",
+      "url": "https://cdn.uww.org/2025-12/251219_refereeing_in_2026.pdf"
+    }
+  ]
+}
