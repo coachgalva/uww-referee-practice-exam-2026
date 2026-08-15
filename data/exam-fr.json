@@ -1,0 +1,726 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "category": "Category III",
+      "question": "Quelle est la durée réglementaire d’un combat U15, U17 ou Vétérans ?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Deux périodes de 3 minutes avec 30 secondes de pause"
+        },
+        {
+          "key": "B",
+          "text": "Deux périodes de 2 minutes avec 30 secondes de pause"
+        },
+        {
+          "key": "C",
+          "text": "Une période de 4 minutes"
+        },
+        {
+          "key": "D",
+          "text": "Trois périodes de 2 minutes"
+        }
+      ],
+      "answer": "B. Deux périodes de 2 minutes avec 30 secondes de pause. Article 22, règlement p. 19 (PDF p. 20).[2]",
+      "correct": "B"
+    },
+    {
+      "id": 2,
+      "category": "Category III",
+      "question": "Quelle est la durée réglementaire d’un combat U20, U23 ou Seniors ?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Deux périodes de 3 minutes avec 30 secondes de pause"
+        },
+        {
+          "key": "B",
+          "text": "Deux périodes de 2 minutes avec 30 secondes de pause"
+        },
+        {
+          "key": "C",
+          "text": "Une période de 6 minutes sans pause"
+        },
+        {
+          "key": "D",
+          "text": "Trois périodes de 2 minutes"
+        }
+      ],
+      "answer": "A. Deux périodes de 3 minutes avec 30 secondes de pause. Article 22, p. 19 (PDF p. 20).[2]",
+      "correct": "A"
+    },
+    {
+      "id": 3,
+      "category": "Category III",
+      "question": "Quelle est la composition habituelle du corps d’arbitrage d’un combat ?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Arbitre (Referee) et juge (Judge)"
+        },
+        {
+          "key": "B",
+          "text": "Arbitre (Referee), juge (Judge) et chef de tapis (Mat Chairman)"
+        },
+        {
+          "key": "C",
+          "text": "Deux arbitres (Referees) et un délégué (Delegate)"
+        },
+        {
+          "key": "D",
+          "text": "Arbitre (Referee), entraîneur (Coach) et chef de tapis (Mat Chairman)"
+        }
+      ],
+      "answer": "B. Chef de tapis (Mat Chairman), arbitre (Referee) et juge (Judge). Article 15, p. 15 (PDF p. 16).[2]",
+      "correct": "B"
+    },
+    {
+      "id": 4,
+      "category": "Category III",
+      "question": "Quel écart de points est requis pour une supériorité technique (Technical Superiority) ?",
+      "options": [
+        {
+          "key": "A",
+          "text": "8 points dans tous les styles"
+        },
+        {
+          "key": "B",
+          "text": "10 points dans tous les styles"
+        },
+        {
+          "key": "C",
+          "text": "8 points en lutte gréco-romaine et 10 points en lutte libre/lutte féminine"
+        },
+        {
+          "key": "D",
+          "text": "10 points en lutte gréco-romaine et 8 points en lutte libre/lutte féminine"
+        }
+      ],
+      "answer": "C. Huit points en lutte gréco-romaine ; dix en lutte libre et en lutte féminine. Articles 18, 27 et 43, pp. 17, 20 et 31.[2]",
+      "correct": "C"
+    },
+    {
+      "id": 5,
+      "category": "Category III",
+      "question": "Une position est considérée comme une mise en danger (Danger Position) lorsque le dos ou la ligne des épaules forme avec le tapis :",
+      "options": [
+        {
+          "key": "A",
+          "text": "Exactement 90 degrés"
+        },
+        {
+          "key": "B",
+          "text": "Un angle inférieur à 90 degrés"
+        },
+        {
+          "key": "C",
+          "text": "Un angle supérieur à 90 degrés"
+        },
+        {
+          "key": "D",
+          "text": "N’importe quel angle dès lors qu’il y a contrôle"
+        }
+      ],
+      "answer": "B. Un angle inférieur à 90 degrés. À exactement 90 degrés, la position est neutre et ne constitue pas une mise en danger (Danger Position). Article 35, pp. 26–27.[2]",
+      "correct": "B"
+    },
+    {
+      "id": 6,
+      "category": "Category III",
+      "question": "En position debout (standing), le lutteur bleu pose entièrement un pied dans la zone de protection (protection area), sans qu’aucune action valable ne soit en cours. Quelle est la décision de base ?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1 point au Bleu"
+        },
+        {
+          "key": "B",
+          "text": "1 point au Rouge"
+        },
+        {
+          "key": "C",
+          "text": "2 points au Rouge"
+        },
+        {
+          "key": "D",
+          "text": "Aucun point"
+        }
+      ],
+      "answer": "B. 1 point au Rouge pour la sortie de tapis (step out) du Bleu. Article 38, p. 27.[2]",
+      "correct": "B"
+    },
+    {
+      "id": 7,
+      "category": "Category III",
+      "question": "Laquelle des situations suivantes constitue une forme réglementaire de victoire ?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Trois avertissements (cautions) reçus par l’adversaire"
+        },
+        {
+          "key": "B",
+          "text": "Deux passivités (passivities) de l’adversaire"
+        },
+        {
+          "key": "C",
+          "text": "Une consultation"
+        },
+        {
+          "key": "D",
+          "text": "Deux sorties de tapis (step outs) consécutives"
+        }
+      ],
+      "answer": "A. Trois avertissements (cautions) entraînent la défaite. Article 29, p. 21.[2]",
+      "correct": "A"
+    },
+    {
+      "id": 8,
+      "category": "Category III",
+      "question": "Si le délégué à l’arbitrage (Refereeing Delegate) confirme la décision initiale à la suite d’un challenge, que se passe-t-il normalement ?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Le lutteur conserve son challenge"
+        },
+        {
+          "key": "B",
+          "text": "L’adversaire reçoit 1 point et le lutteur perd son challenge"
+        },
+        {
+          "key": "C",
+          "text": "L’adversaire reçoit 2 points"
+        },
+        {
+          "key": "D",
+          "text": "Le combat recommence depuis le début"
+        }
+      ],
+      "answer": "B. Le lutteur perd son challenge et l’adversaire reçoit 1 point. Article 31, p. 24.[2]",
+      "correct": "B"
+    },
+    {
+      "id": 9,
+      "category": "Category III",
+      "question": "En lutte gréco-romaine, que reçoit le lutteur actif lors de la première passivité (passivity) du combat ?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1 point et le choix entre la position debout (standing) et la position à terre (parterre)"
+        },
+        {
+          "key": "B",
+          "text": "2 points et mise à terre (parterre) obligatoire"
+        },
+        {
+          "key": "C",
+          "text": "Uniquement le choix de la position"
+        },
+        {
+          "key": "D",
+          "text": "Une période d’activité (Activity Time) de 30 secondes"
+        }
+      ],
+      "answer": "A. 1 point et le choix entre la position debout (standing) et la position à terre (parterre). Article 46, p. 34.[2]",
+      "correct": "A"
+    },
+    {
+      "id": 10,
+      "category": "Category III",
+      "question": "En lutte libre Seniors, le score est toujours de 0-0 après 2 min 00 s dans la première période. Que doit-il se passer ?",
+      "options": [
+        {
+          "key": "A",
+          "text": "On attend jusqu’à la pause"
+        },
+        {
+          "key": "B",
+          "text": "Un lutteur inactif (inactive wrestler) est désigné et la période d’activité (Activity Time) commence"
+        },
+        {
+          "key": "C",
+          "text": "Les deux lutteurs reçoivent un avertissement (caution)"
+        },
+        {
+          "key": "D",
+          "text": "1 point est accordé au dernier attaquant"
+        }
+      ],
+      "answer": "B. Un lutteur inactif (inactive wrestler) doit être désigné et la période d’activité (Activity Time) doit commencer. Article 46, p. 33.[2]",
+      "correct": "B"
+    },
+    {
+      "id": 11,
+      "category": "Category III",
+      "question": "Pour qu’un tombé (fall) au bord soit valable :",
+      "options": [
+        {
+          "key": "A",
+          "text": "Il suffit qu’une épaule se trouve dans la zone orange (orange zone)"
+        },
+        {
+          "key": "B",
+          "text": "Les deux épaules doivent se trouver dans la zone orange (orange zone) et la tête entière ne doit pas toucher la zone de protection (protection area)"
+        },
+        {
+          "key": "C",
+          "text": "Il peut avoir lieu entièrement dans la zone de protection (protection area)"
+        },
+        {
+          "key": "D",
+          "text": "Seule la confirmation de l’arbitre (Referee) est nécessaire"
+        }
+      ],
+      "answer": "B. Les deux épaules doivent se trouver dans la zone orange (orange zone) et la tête entière ne doit pas toucher la zone de protection (protection area). Article 42, p. 30.[2]",
+      "correct": "B"
+    },
+    {
+      "id": 12,
+      "category": "Category III",
+      "question": "En lutte féminine, les doubles Nelson (Double Nelsons) :",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sont autorisés depuis le côté"
+        },
+        {
+          "key": "B",
+          "text": "Sont autorisés uniquement en position debout (standing)"
+        },
+        {
+          "key": "C",
+          "text": "Sont interdits en position debout (standing) et à terre (parterre)"
+        },
+        {
+          "key": "D",
+          "text": "Sont autorisés chez les Seniors"
+        }
+      ],
+      "answer": "C. Tous les doubles Nelson (Double Nelsons) sont interdits en lutte féminine. Article 50, p. 37.[2]",
+      "correct": "C"
+    },
+    {
+      "id": 13,
+      "category": "Category II",
+      "question": "L’arbitre (Referee) et le juge (Judge) indiquent 2 points au Rouge. Le chef de tapis (Mat Chairman) estime qu’il faut accorder 4 points au Rouge, mais il n’y a ni faute grave (serious fault) ni consultation. Quel est le résultat officiel ?",
+      "options": [
+        {
+          "key": "A",
+          "text": "4 points au Rouge"
+        },
+        {
+          "key": "B",
+          "text": "2 points au Rouge"
+        },
+        {
+          "key": "C",
+          "text": "Palette blanche (white paddle)"
+        },
+        {
+          "key": "D",
+          "text": "L’action est rejouée"
+        }
+      ],
+      "answer": "B. 2 points au Rouge. Lorsque l’arbitre (Referee) et le juge (Judge) sont d’accord, le chef de tapis (Mat Chairman) ne peut pas modifier unilatéralement la décision ; il peut demander une consultation en cas de faute grave (serious fault). Articles 20, 39 et 40, pp. 18 et 29.[2]",
+      "correct": "B"
+    },
+    {
+      "id": 14,
+      "category": "Category II",
+      "question": "L’arbitre (Referee) indique 2 points au Bleu, le juge (Judge) indique 0 et le chef de tapis (Mat Chairman) vote 2 points au Bleu. Quel est le résultat ?",
+      "options": [
+        {
+          "key": "A",
+          "text": "0"
+        },
+        {
+          "key": "B",
+          "text": "1 point au Bleu"
+        },
+        {
+          "key": "C",
+          "text": "2 points au Bleu"
+        },
+        {
+          "key": "D",
+          "text": "Consultation obligatoire"
+        }
+      ],
+      "answer": "C. 2 points au Bleu à la majorité. Article 40, p. 29.[2]",
+      "correct": "C"
+    },
+    {
+      "id": 15,
+      "category": "Category II",
+      "question": "En lutte libre, en position à terre (parterre), le défenseur commet une action illégale qui empêche l’attaquant d’achever la prise (hold). Indiquez la sanction, le score et la reprise.",
+      "options": [],
+      "answer": "Avertissement (caution) au défenseur, 1 point à l’attaquant et reprise dans la position où l’infraction s’est produite ; si l’action est menée à son terme, sa valeur technique est également accordée. Articles 28 et 50, pp. 21 et 37–38.[2]",
+      "correct": null
+    },
+    {
+      "id": 16,
+      "category": "Category II",
+      "question": "En lutte gréco-romaine, un défenseur commet sa deuxième faute de jambes (leg foul) du combat. Indiquez la sanction, le score et précisez si le combat doit prendre fin automatiquement.",
+      "options": [],
+      "answer": "Avertissement ordinaire (caution) au défenseur et 2 points à l’adversaire. Le combat ne prend pas fin automatiquement au motif qu’il s’agit de la deuxième faute de jambes (leg foul) ; la règle générale de défaite au troisième avertissement (caution) s’applique. Article 51, p. 38 ; circulaire du 12 décembre 2025.",
+      "correct": null
+    },
+    {
+      "id": 17,
+      "category": "Category II",
+      "question": "Un défenseur fuit manifestement une prise (fleeing the hold) en position à terre (parterre). Indiquez la sanction, le score et la reprise.",
+      "options": [],
+      "answer": "Avertissement (caution, 0), 1 point à l’adversaire et reprise à terre (parterre). Article 48, pp. 35–36.[2]",
+      "correct": null
+    },
+    {
+      "id": 18,
+      "category": "Category II",
+      "question": "Un défenseur fuit le tapis (fleeing the mat) alors qu’il se trouve en mise en danger (Danger Position). Indiquez la sanction, le score et la reprise.",
+      "options": [],
+      "answer": "Avertissement (caution) au fautif, 2 points à l’adversaire et reprise à terre (parterre). Article 49, p. 36.[2]",
+      "correct": null
+    },
+    {
+      "id": 19,
+      "category": "Category II",
+      "question": "Au cours d’une attaque depuis la position debout (standing), le défenseur fuit le tapis et l’attaque se termine par une mise à terre (takedown) dans la zone de protection (protection area). Quel total de points et quelle sanction doivent être accordés ?",
+      "options": [],
+      "answer": "2 points pour la mise à terre (takedown), plus un avertissement (caution) et 1 point pour fuite du tapis (fleeing the mat) ; reprise à terre (parterre). Article 49, p. 36.[2]",
+      "correct": null
+    },
+    {
+      "id": 20,
+      "category": "Category II",
+      "question": "Pendant le combat, le corps d’arbitrage omet un tombé évident (clear fall) ou un cas manifeste de brutalité (brutality), et l’entraîneur (coach) ne demande pas de challenge. Le délégué à l’arbitrage (Refereeing Delegate) peut-il intervenir ? Selon quelle procédure ?",
+      "options": [],
+      "answer": "Oui. L’article 26(i) autorise le délégué à l’arbitrage (Refereeing Delegate) à intervenir en cas d’erreur grave (serious mistake) — notamment un tombé évident (clear fall) non accordé ou un acte de brutalité (brutality) — et à demander une correction au moyen d’une consultation ou d’un examen vidéo (video review), même en l’absence de challenge de l’entraîneur. Article 26, p. 20.",
+      "correct": null
+    },
+    {
+      "id": 21,
+      "category": "Category II",
+      "question": "Un écart de 8 points est atteint en lutte gréco-romaine alors qu’une action se poursuit. À quel moment le combat doit-il être arrêté pour supériorité technique (Technical Superiority) ?",
+      "options": [],
+      "answer": "À la fin de l’action, lorsque les athlètes sont revenus en position neutre. Articles 18, 27 et 43.[2]",
+      "correct": null
+    },
+    {
+      "id": 22,
+      "category": "Category II",
+      "question": "Le Rouge tente une prise (hold) comportant un risque, échoue et se retrouve dessous en position à terre (parterre), sans action ni contrôle initié par le Bleu. Quel score et quelle reprise doivent être appliqués ?",
+      "options": [],
+      "answer": "Aucun point ; le combat est interrompu et reprend en position debout (standing). Article 34, pp. 25–26.[2]",
+      "correct": null
+    },
+    {
+      "id": 23,
+      "category": "Category II",
+      "question": "Une fois la position à terre (parterre) établie, le défenseur perd brièvement le contact d’un genou avec le tapis. L’action suivante doit-elle être automatiquement considérée comme une action debout (standing) ? Expliquez.",
+      "options": [],
+      "answer": "Non. La perte brève du contact d’un genou après l’établissement de la position à terre (parterre) ne transforme pas automatiquement l’action en action debout (standing). Article 34, p. 26.[2]",
+      "correct": null
+    },
+    {
+      "id": 24,
+      "category": "Category II",
+      "question": "En lutte libre U15, le score est toujours de 0-0 après une minute dans la première période. Un avertissement verbal (verbal warning) est-il requis avant la période d’activité (Activity Time) ?",
+      "options": [],
+      "answer": "Non. Pour les U15, les U17 et les Vétérans, aucun avertissement verbal préalable (verbal warning) n’est utilisé ; si le score est toujours de 0-0 après une minute, la procédure passe directement à la période d’activité (Activity Time). Article 46, pp. 33–34.[2]",
+      "correct": null
+    },
+    {
+      "id": 25,
+      "category": "Category I",
+      "question": "Un combat de lutte gréco-romaine se termine sur le score de 1-1, les deux points ayant été accordés pour passivité (passivity) de l’adversaire. Il n’y a aucun avertissement (caution). Qui gagne ?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Le dernier à avoir marqué"
+        },
+        {
+          "key": "B",
+          "text": "Le premier à avoir marqué"
+        },
+        {
+          "key": "C",
+          "text": "Une prolongation est disputée"
+        },
+        {
+          "key": "D",
+          "text": "Le chef de tapis (Mat Chairman) décide sans autre critère"
+        }
+      ],
+      "answer": "B. Dans le cas particulier d’un score de 1-1 en lutte gréco-romaine, lorsque les deux points proviennent de la passivité (passivity), le vainqueur est celui qui a obtenu le premier point. Article 29, pp. 21–22.[2]",
+      "correct": "B"
+    },
+    {
+      "id": 26,
+      "category": "Category I",
+      "question": "En lutte gréco-romaine, le Rouge obtient d’abord 1 point parce que le Bleu a perdu un challenge. Ensuite, le Bleu obtient 1 point technique pour une sortie de tapis (step out). Le combat se termine sur le score de 1-1. Qui gagne et pourquoi ?",
+      "options": [],
+      "answer": "Le Bleu. Le point technique pour sortie de tapis (step out) a une valeur supérieure au point non technique résultant d’un challenge perdu. Article 29, pp. 21–22.[2]",
+      "correct": null
+    },
+    {
+      "id": 27,
+      "category": "Category I",
+      "question": "Quelle approbation est requise pour prononcer le troisième avertissement (caution), qui entraîne la défaite ?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Majorité simple"
+        },
+        {
+          "key": "B",
+          "text": "Uniquement l’arbitre (Referee) et le juge (Judge)"
+        },
+        {
+          "key": "C",
+          "text": "Unanimité du corps d’arbitrage"
+        },
+        {
+          "key": "D",
+          "text": "Uniquement le délégué à l’arbitrage (Refereeing Delegate)"
+        }
+      ],
+      "answer": "C. Le troisième avertissement (caution) doit être prononcé à l’unanimité. Article 29, p. 22.[2]",
+      "correct": "C"
+    },
+    {
+      "id": 28,
+      "category": "Category I",
+      "question": "Peut-on demander un challenge contre une pénalité pour passivité (passivity penalty) ? Et contre un tombé (fall) ?",
+      "options": [],
+      "answer": "Aucun challenge n’est admis contre les pénalités pour passivité (passivity penalties) ni, en règle générale, contre un tombé (fall). Il peut toutefois être accepté lorsqu’il concerne une action illégale/contre-attaque (illegal action/counterattack) ou une action survenue dans les dernières secondes avant le tombé. Article 31, p. 24.[2]",
+      "correct": null
+    },
+    {
+      "id": 29,
+      "category": "Category I",
+      "question": "Quel est le délai général pour demander un challenge après l’affichage des points ou le retour en position neutre ?",
+      "options": [
+        {
+          "key": "A",
+          "text": "5 secondes"
+        },
+        {
+          "key": "B",
+          "text": "10 secondes"
+        },
+        {
+          "key": "C",
+          "text": "20 secondes"
+        },
+        {
+          "key": "D",
+          "text": "Avant la période suivante"
+        }
+      ],
+      "answer": "B. Dix secondes. Article 31, p. 24.[2]",
+      "correct": "B"
+    },
+    {
+      "id": 30,
+      "category": "Category I",
+      "question": "Qui rend la décision finale après l’examen de la vidéo d’un challenge ?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Le chef de tapis (Mat Chairman) seul"
+        },
+        {
+          "key": "B",
+          "text": "L’arbitre (Referee) et le juge (Judge) à la majorité"
+        },
+        {
+          "key": "C",
+          "text": "Le délégué à l’arbitrage (Refereeing Delegate) ou son remplaçant (substitute), après concertation avec le chef de tapis (Mat Chairman)"
+        },
+        {
+          "key": "D",
+          "text": "Le directeur de la compétition (Competition Director)"
+        }
+      ],
+      "answer": "C. Le délégué à l’arbitrage (Refereeing Delegate) ou son remplaçant (substitute) rend la décision finale après avoir examiné la vidéo et en avoir discuté avec le chef de tapis (Mat Chairman). Articles 16, 20 et 31.[2]",
+      "correct": "C"
+    },
+    {
+      "id": 31,
+      "category": "Category I",
+      "question": "Une erreur grave (serious mistake) non détectée par le corps d’arbitrage est constatée pendant le combat : points erronés au tableau d’affichage (scoreboard), reprise incorrecte ou mauvais vainqueur sur le point d’être annoncé. Quelle intervention le règlement autorise-t-il avant la proclamation du vainqueur ?",
+      "options": [],
+      "answer": "Le délégué à l’arbitrage (Refereeing Delegate) peut intervenir et demander une correction au moyen d’une consultation ou d’un examen vidéo (video review), tant que le combat ou la procédure permet encore d’apporter la correction avant la proclamation du vainqueur. Article 26(i), p. 20.[2]",
+      "correct": null
+    },
+    {
+      "id": 32,
+      "category": "Category I",
+      "question": "La durée cumulée des soins pour saignement (bleeding) atteint quatre minutes. Les soins se terminent exactement à l’expiration du temps et aucun saignement n’est alors visible. Le lutteur peut-il continuer ? Que se passe-t-il s’il saigne de nouveau ?",
+      "options": [],
+      "answer": "Si les soins se terminent et qu’aucun saignement (bleeding) n’est visible exactement à l’expiration du temps, le lutteur peut continuer ; tout saignement ultérieur entraîne sa défaite. Article 26(f), p. 20.[2]",
+      "correct": null
+    },
+    {
+      "id": 33,
+      "category": "Category I",
+      "question": "Après la proclamation du vainqueur sur le tapis, un entraîneur (coach) dépose une réclamation afin de modifier le résultat. Est-elle recevable au titre de l’article 53 ?",
+      "options": [],
+      "answer": "Non. Après la proclamation de la victoire sur le tapis, aucune réclamation visant à modifier le résultat n’est admise. Article 53, p. 39.[2]",
+      "correct": null
+    },
+    {
+      "id": 34,
+      "category": "Category I",
+      "question": "Le chef de tapis (Mat Chairman) peut-il être le premier à donner son avis sur une action de cotation ? Expliquez son rôle fonctionnel en cas de désaccord ou d’erreur grave (serious mistake).",
+      "options": [],
+      "answer": "Il ne peut pas être le premier à donner son avis sur la cotation (scoring). En cas de désaccord, il tranche entre l’arbitre (Referee) et le juge (Judge) ; en cas d’erreur grave de cotation (serious scoring mistake), il peut interrompre le combat et demander une consultation. Article 20, p. 18.[2]",
+      "correct": null
+    },
+    {
+      "id": 35,
+      "category": "Category I",
+      "question": "À la fin du temps réglementaire, les feuilles du juge (Judge) et du chef de tapis (Mat Chairman) divergent. Laquelle fait foi pour la désignation du vainqueur ?",
+      "options": [],
+      "answer": "La feuille du chef de tapis (Mat Chairman). Article 39, p. 29.[2]",
+      "correct": null
+    },
+    {
+      "id": 36,
+      "category": "Category I",
+      "question": "Déterminez les points de classement (classification points) : a) Supériorité technique (Technical Superiority), le perdant n’ayant marqué aucun point technique. b) Supériorité technique, le perdant ayant marqué des points techniques. c) Victoire aux points (Victory by Points), le perdant n’ayant marqué aucun point. d) Victoire aux points, le perdant ayant marqué des points techniques.",
+      "options": [],
+      "answer": "a) VSU 4:0 ; b) VSU1 4:1 ; c) VPO 3:0 ; d) VPO1 3:1. Article 41, p. 30.[2]",
+      "correct": null
+    },
+    {
+      "id": 37,
+      "category": "Category IS",
+      "question": "L’attaquant pose le premier un pied dans la zone de protection (protection area) alors qu’il exécute une prise (hold) depuis la position debout (standing). Traitez séparément les cas suivants : a) Il achève la prise dans une action continue. b) Il n’achève pas la prise. c) Il soulève et contrôle l’adversaire, mais ne peut pas achever la prise dans une action continue.",
+      "options": [],
+      "answer": "a) La valeur intégrale de la prise (hold) est accordée : 1, 2, 4 ou 5 points ; b) 1 point est accordé à l’adversaire ; c) le combat est arrêté sans attribution de point. Article 38, p. 27.[2]",
+      "correct": null
+    },
+    {
+      "id": 38,
+      "category": "Category IS",
+      "question": "En position à terre (parterre), une action commence valablement dans la zone de passivité (passivity zone) et se termine dans la zone de protection (protection area). Les points sont-ils valables ? Dans quelle position le combat reprend-il ?",
+      "options": [],
+      "answer": "Les points sont valables ; le combat est ensuite arrêté et reprend debout (standing), au centre. Article 45, pp. 32–33.[2]",
+      "correct": null
+    },
+    {
+      "id": 39,
+      "category": "Category IS",
+      "question": "Au bord, les deux épaules du défenseur se trouvent dans la zone orange (orange zone), mais la tête entière touche la zone de protection (protection area). Un tombé (fall) peut-il être prononcé ? Précisez le critère.",
+      "options": [],
+      "answer": "Non. Pour qu’un tombé (fall) au bord soit valable, les deux épaules doivent se trouver dans la zone orange (orange zone) et la tête entière ne doit pas toucher la zone de protection (protection area). Article 42, p. 30.",
+      "correct": null
+    },
+    {
+      "id": 40,
+      "category": "Category IS",
+      "question": "En position debout (standing), le défenseur descend délibérément sur les genoux et entre dans la zone de protection (protection area). Comment la sortie de tapis (step out) est-elle cotée et dans quelles circonstances peut-elle également devenir une fuite du tapis (fleeing the mat) ?",
+      "options": [],
+      "answer": "Le défenseur au sol/sur les genoux (grounded/on the knees) qui entre dans la zone de protection concède 1 point pour sortie de tapis (step out). S’il se laisse intentionnellement tomber dans la zone et entre délibérément dans la zone de protection pour fuir, l’action est considérée comme une fuite du tapis (fleeing the mat), avec l’avertissement (caution), les points et la reprise correspondants. Articles 38 et 49, pp. 27 et 36–37.",
+      "correct": null
+    },
+    {
+      "id": 41,
+      "category": "Category IS",
+      "question": "Selon le libellé en vigueur de l’article 30, un arbitre de catégorie IS (Category IS referee) peut-il exercer simultanément les fonctions d’entraîneur national (national coach) ?",
+      "options": [],
+      "answer": "Non. Le libellé en vigueur dispose qu’un arbitre de catégorie IS (Category IS referee) ne peut pas être entraîneur national (national coach). Article 30, p. 23.[2]",
+      "correct": null
+    },
+    {
+      "id": 42,
+      "category": "Category IS",
+      "question": "Un lutteur commet un acte de brutalité (brutality) après la fin du combat. Indiquez les conséquences sur son classement dans la compétition (competition classification) conformément au texte en vigueur.",
+      "options": [],
+      "answer": "Il doit être disqualifié (disqualified) de la compétition, classé dernier sans classement et identifié par la mention DSQ. Article 14, p. 14 ; mise à jour formelle entrée en vigueur le 1er janvier 2026.",
+      "correct": null
+    },
+    {
+      "id": 43,
+      "category": "Category IS",
+      "question": "Un combat de lutte gréco-romaine se termine sur le score de 1-1 : le Rouge a marqué le premier point à la suite d’un avertissement (caution) infligé au Bleu ; le Bleu a ensuite marqué à la suite d’un avertissement infligé au Rouge. Qui gagne selon l’exemple en vigueur ?",
+      "options": [],
+      "answer": "Le Rouge. L’exemple en vigueur précise que le premier point a été provoqué par l’avertissement (caution) du Bleu et le second par l’avertissement du Rouge ; le Rouge gagne. Article 29, p. 22.[2]",
+      "correct": null
+    },
+    {
+      "id": 44,
+      "category": "Category IS",
+      "question": "Décrivez les trois premiers appels de passivité (passivity calls) d’un combat de lutte gréco-romaine, quel que soit le lutteur déclaré passif à chaque fois.",
+      "options": [],
+      "answer": "Premier appel : 1 point et choix entre la position debout (standing) et la position à terre (parterre). Deuxième appel : 1 point et même choix. Troisième appel et suivants : aucun point, mais choix entre la position debout et la position à terre. Article 46, p. 34.[2]",
+      "correct": null
+    },
+    {
+      "id": 45,
+      "category": "Category IS",
+      "question": "Distinguez la passivité (Passivity) de la lutte négative (Negative Wrestling). Quelle est la sanction immédiate d’une lutte négative confirmée en lutte libre et en lutte gréco-romaine ?",
+      "options": [],
+      "answer": "La passivité (Passivity) correspond à un manque d’activité et suit des procédures distinctes selon le style. La lutte négative (Negative Wrestling) est un comportement de blocage ou d’évitement contraire à une lutte ouverte et ne doit pas être sanctionnée comme de la passivité. Après confirmation du chef de tapis (Mat Chairman) : avertissement (caution) + 1 point en lutte libre ; avertissement + 2 points en lutte gréco-romaine. Article 46, pp. 34–35.[2]",
+      "correct": null
+    },
+    {
+      "id": 46,
+      "category": "Category IS",
+      "question": "L’entraîneur (coach) tente de demander un challenge contre un troisième avertissement (caution). La demande doit-elle être rejetée automatiquement ? Expliquez le rapport entre la règle générale du challenge et l’exception relative à la passivité (passivity).",
+      "options": [],
+      "answer": "Elle ne doit pas être rejetée automatiquement au seul motif qu’il s’agit d’un avertissement (caution) : l’article 29 indique que les challenges peuvent être acceptés pour tout type d’avertissement. Toutefois, l’article 31 exclut les pénalités résultant de la lutte passive (passive wrestling). Il faut donc déterminer l’origine exacte de l’avertissement avant d’accepter ou de rejeter la demande. Articles 29 et 31.[2]",
+      "correct": null
+    },
+    {
+      "id": 47,
+      "category": "Category IS",
+      "question": "L’arbitre (Referee) et le juge (Judge) s’accordent sur une cotation. Le chef de tapis (Mat Chairman) constate une violation flagrante du règlement (flagrant violation of the Rules). Quelle procédure doit-il suivre au lieu de simplement substituer sa décision ?",
+      "options": [],
+      "answer": "Il doit demander une consultation. Il ne peut pas remplacer unilatéralement une décision concordante de l’arbitre (Referee) et du juge (Judge). Articles 20, 39 et 40.[2]",
+      "correct": null
+    },
+    {
+      "id": 48,
+      "category": "Category IS",
+      "question": "Un délégué à l’arbitrage (Refereeing Delegate) examine une vidéo après que la victoire a déjà été proclamée et conclut que le corps d’arbitrage a commis une erreur technique. Distinguez clairement : a) la possibilité de modifier le résultat ; b) la possibilité d’évaluer ou de sanctionner le corps d’arbitrage ; c) l’autorité et la procédure applicables.",
+      "options": [],
+      "answer": "a) Le résultat ne peut pas être modifié après la proclamation de la victoire. b) L’erreur peut néanmoins être examinée aux fins de responsabilité technique et d’éventuelles sanctions. c) Le président de l’UWW ou le responsable de l’arbitrage peut examiner la vidéo et, avec l’accord du Bureau de l’UWW, prononcer une sanction conformément au Règlement d’arbitrage (Refereeing Regulations) ; l’article 21 prévoit également, par l’intermédiaire des autorités compétentes, un avertissement (warning), la suspension d’une ou de plusieurs sessions ou le retrait de la compétition. Articles 21 et 53.[2] ---",
+      "correct": null
+    }
+  ],
+  "sources": [
+    {
+      "n": 1,
+      "title": "UWW Olympic Wrestling Rules",
+      "url": "https://uww.org/governance/regulations-olympic-wrestling"
+    },
+    {
+      "n": 2,
+      "title": "International Wrestling Rules — January 2026",
+      "url": "https://cdn.uww.org/2026-01/wrestling_rules.pdf"
+    },
+    {
+      "n": 3,
+      "title": "International Wrestling Rules updates — 12 Dec 2025",
+      "url": "https://cdn.uww.org/2025-12/23_international_wrestling_rules.pdf"
+    },
+    {
+      "n": 4,
+      "title": "GR 1–1 Tie-Breaking Test Phase — 27 Mar 2025",
+      "url": "https://cdn.uww.org/2025-03/07_test_gr_passivity.pdf"
+    },
+    {
+      "n": 5,
+      "title": "GR 1–1 New Tests — 18 Jun 2025",
+      "url": "https://cdn.uww.org/2025-06/14_gr_passivity_newtests.pdf"
+    },
+    {
+      "n": 6,
+      "title": "Refereeing in 2026 — 19 Dec 2025",
+      "url": "https://cdn.uww.org/2025-12/251219_refereeing_in_2026.pdf"
+    }
+  ]
+}
